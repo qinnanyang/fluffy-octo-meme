@@ -1,2 +1,2 @@
 ## This is the jiggly-manifesto
-1. Long live jigglypants
+1. Long live jigglypan
